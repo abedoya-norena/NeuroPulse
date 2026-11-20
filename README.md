@@ -23,8 +23,8 @@ http://127.0.0.1:8000
 | Username | Password |
 |---|---|
 | `Mike` | `524euTjrWm6uK2C5iw8mC6aNgX1JI78o` |
-| `Trump` | `Trump` |
-| `Biden` | `Biden` |
+| `Jake` | `James` |
+| `Charles` | `Charlie` |
 | `Evan` | `correct horse battery staple` |
 | `Kristen` | `Possible-Rich-Absolute-Battle` |
 
